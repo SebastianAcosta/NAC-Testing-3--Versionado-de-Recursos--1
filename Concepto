@@ -6,7 +6,7 @@ funcionalidades que el equipo está desarrolando. En tecnologías como git el t�
 ● Branch: rama específica de desarrollo independiente del trunk y por ello no se ve
 afectada por esos cambios, también cuando se corrige un error, o se trabaja con una
 versión temporal para dar lugar a una demo o alguna funcionalidad parcial
-○ Feature Branch: es un nombre que suele aplicarse a ramas que contienen
+  ○ Feature Branch: es un nombre que suele aplicarse a ramas que contienen
 exclusivamente modificaciones para agregar cierta función que podría agregar un
 alto grado de desorden en la rama principal.
 ● Tag: cuando se lanza una versión nueva, aunque sea beta normalmente se usa el
