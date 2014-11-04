@@ -1,5 +1,5 @@
 En el versionado se trata la relación entre sistemas de gestión de software, el lanzamiento de nuevas versiones
-o el desarrollo de funcionalidades específicas. 
+o el desarrollo de funcionalidades específicas. :-)
 Los términos que se manejan dentro del versionaso son:
 ● Trunk: que hace referencia a la rama actual de desarrollo, es decir, aquí se encuentran todas las
 funcionalidades que el equipo está desarrolando. En tecnologías como git el término habitual es "master".
